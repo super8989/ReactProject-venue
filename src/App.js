@@ -15,7 +15,7 @@ class App extends Component {
     return (
       <div
         className="App"
-        style={{ height: "1500px", background: "cornflowerblue" }}
+        style={{ height: "1500px", background: "white" }}
       >
         <Header />
 
